@@ -45,4 +45,7 @@ ADDCOLUMNS(
     "Weekday", WEEKDAY([Date]),
     "Weekday Name", FORMAT([Date], "dddd"),
     "Year-Month", FORMAT([Date], "YYYY-MM")
+
 )
+
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/50f02f6e-079e-4d47-b7ac-c269672367de)
