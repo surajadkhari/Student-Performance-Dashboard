@@ -1,37 +1,45 @@
 # 📊 Student Performance Dashboard (Power BI)
 
-Welcome to the **Student Performance Dashboard** project, where I've designed an interactive Power BI report that provides actionable insights into student data, grades, and payment methods.
+Welcome to the **Student Performance Dashboard** project – an interactive Power BI report designed to visualize and analyze student academic and transactional data for better decision-making.
+
+---
+
+## 🎥 Dashboard Preview
+
+![Student Performance Dashboard Demo](./Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
 ---
 
 ## 🔍 Project Overview
 
-This dashboard was built using multiple student-related datasets including:
+This dashboard leverages multiple tables including:
 
-- `student_data`  
-- `exams_data`  
-- `payments_data`  
-- `library_data`  
-- A custom `DateTable` for time intelligence
+- `student_data`
+- `exams_data`
+- `payments_data`
+- `library_data`
+- `DateTable` (custom-built using DAX)
 
-**Objective:**  
-To explore and visualize key metrics such as student performance by grade, yearly enrollment trends, payment methods, and breakdown by country and department.
-
----
-
-## 📌 Key Features
-
-- 📅 **Time Intelligence**: Count of students by year using a custom `DateTable`
-- 📈 **Trend Analysis**: Yearly student ID trends with forecasting
-- 🧮 **Grade Insights**: Distribution of students by grade (A, B, C)
-- 🌍 **Country & Stream**: Student distribution across countries and academic streams
-- 💳 **Payments Analysis**: Breakdown of payment methods used by students
+**Main Objective:**  
+To provide actionable insights into:
+- Student academic performance  
+- Enrollment trends  
+- Payment behaviors  
+- Country & stream-wise distributions  
 
 ---
 
-## 🧠 Time Intelligence Table
+## 📌 Key Insights
 
-I created a dynamic `DateTable` using DAX to support advanced date filtering and time-based analysis:
+- 🧮 Grade Breakdown (A, B, C)
+- 🌍 Student Country vs. Academic Stream matrix
+- 🗓️ Student enrollment trend with forecast
+- 💳 Payment method comparison (Cash, Online, Credit, Transfer)
+- 📆 Time-based analysis using a custom Date Table
+
+---
+
+## 🧠 Time Intelligence Table (DAX)
 
 ```DAX
 DateTable = 
@@ -45,7 +53,4 @@ ADDCOLUMNS(
     "Weekday", WEEKDAY([Date]),
     "Weekday Name", FORMAT([Date], "dddd"),
     "Year-Month", FORMAT([Date], "YYYY-MM")
-
 )
-
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/50f02f6e-079e-4d47-b7ac-c269672367de)
