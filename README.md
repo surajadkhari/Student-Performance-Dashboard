@@ -1,10 +1,10 @@
-<img width="1025" alt="Screenshot 2025-04-13 at 11 01 38 AM" src="https://github.com/user-attachments/assets/a7948120-10f4-4419-aa5a-df146e7d3061" /># 📊 Student Performance Dashboard (Power BI)
 
 Welcome to the **Student Performance Dashboard** project – an interactive Power BI report designed to visualize and analyze student academic and transactional data for better decision-making.
 
 ---
 
-![Uploading Screenshot 2025-04-13 at 11.01.38 AM.png…]()
+<img width="1025" alt="Screenshot 2025-04-13 at 11 01 38 AM" src="https://github.com/user-attachments/assets/a7948120-10f4-4419-aa5a-df146e7d3061" /># 📊 Student Performance Dashboard (Power BI)
+
 ---
 
 ## 🔍 Project Overview
