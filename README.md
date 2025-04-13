@@ -1,13 +1,10 @@
+## 📌 Project 1: Basic Level – Student Performance Dashboard
 
-Welcome to the **Student Performance Dashboard** project – an interactive Power BI report designed to visualize and analyze student academic and transactional data for better decision-making.
-
----
+An introductory-level dashboard built for visualizing general trends in academic performance and student metrics.
 
 <img width="1025" alt="Screenshot 2025-04-13 at 11 01 38 AM" src="https://github.com/user-attachments/assets/a7948120-10f4-4419-aa5a-df146e7d3061" /># 📊 Student Performance Dashboard (Power BI)
 
----
 
-## 🔍 Project Overview
 
 This dashboard leverages multiple tables including:
 
@@ -38,7 +35,7 @@ To provide actionable insights into:
 
 ## 🧠 Time Intelligence Table (DAX)
 
-```DAX
+DAX
 DateTable = 
 ADDCOLUMNS(
     CALENDAR(DATE(2010, 1, 1), DATE(2030, 12, 31)),
