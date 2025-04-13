@@ -66,7 +66,9 @@ Power BI – Data modeling, visualizations, DAX calculations
 
 ## 📌 Project 2: Intermediate Level – Advanced Student Analytics
 
-![Intermediate Dashboard](./intermediate_dashboard.png)
+<img width="960" alt="Screenshot 2025-04-13 at 1 55 17 PM" src="https://github.com/user-attachments/assets/98f33119-9dc4-4004-a427-cb464139c824" />
+
+
 
 This intermediate-level Power BI dashboard builds upon the basic version by offering in-depth analytics related to institutional KPIs, financial metrics, and academic insights.
 
