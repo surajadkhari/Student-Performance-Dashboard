@@ -5,8 +5,9 @@ Welcome to the **Student Performance Dashboard** project – an interactive Powe
 ---
 
 ## 🎥 Dashboard Preview
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/d4d15007-bda3-4c6a-929b-050590b51aa0)
 
-![Student Performance Dashboard Demo](./Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+
 
 ---
 
