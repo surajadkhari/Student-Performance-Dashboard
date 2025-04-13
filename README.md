@@ -61,6 +61,8 @@ Forecasting based on historical data
 ✨ Tools & Technologies Used
 Power BI – Data modeling, visualizations, DAX calculations
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/422631c1-c64a-4354-8540-1bf9aa88fba6)
+
 
 ## 📌 Project 2: Intermediate Level – Advanced Student Analytics
 
@@ -93,12 +95,13 @@ This intermediate-level Power BI dashboard builds upon the basic version by offe
 
 - Most students passed, with a high academic success rate across departments.
 - Online Payments dominate financial transactions in recent years.
+
 - Library data shows active usage with cyclical return patterns.
 - Enrollment trends are flattening, with minor future decline expected—calling for student engagement initiatives.
 - Countries like **El Salvador**, **Ireland**, and **Germany** show strong representation across multiple academic streams.
 
+<img width="960" alt="Screenshot 2025-04-13 at 1 55 17 PM" src="https://github.com/user-attachments/assets/69ab6d62-53a3-442e-a09d-a68af899ae37" />
 
-DAX – Measures and calculated columns
 
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/422631c1-c64a-4354-8540-1bf9aa88fba6)
+
 
