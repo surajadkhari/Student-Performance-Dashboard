@@ -102,8 +102,3 @@ This intermediate-level Power BI dashboard builds upon the basic version by offe
 - Enrollment trends are flattening, with minor future decline expected—calling for student engagement initiatives.
 - Countries like **El Salvador**, **Ireland**, and **Germany** show strong representation across multiple academic streams.
 
-<img width="960" alt="Screenshot 2025-04-13 at 1 55 17 PM" src="https://github.com/user-attachments/assets/69ab6d62-53a3-442e-a09d-a68af899ae37" />
-
-
-
-
